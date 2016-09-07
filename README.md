@@ -9,7 +9,7 @@ In other words, you have: file1.jpg, file1.eps, file2.jpg, file2.eps and after r
 
 *Check a screenshot below to see what I mean*
 
-![](https://raw.githubusercontent.com/kersh/zip-same-files/master/screenshots/transformation-example.png)
+<img src="https://raw.githubusercontent.com/kersh/zip-same-files/master/screenshots/transformation-example.png" width="530px">
 
 
 ## How to use it?
@@ -35,4 +35,4 @@ You can use it via `right click -> Services -> ZIP Same Files`. Script work if y
 - Double click on **ZIP Same Files.workflow** file.
 - Press install.
 
-<img src="https://raw.githubusercontent.com/kersh/zip-same-files/master/screenshots/how-to-install-automator.png" style="max-width: 530px; width: 100%;">
+<img src="https://raw.githubusercontent.com/kersh/zip-same-files/master/screenshots/how-to-install-automator.png" width="530px">
