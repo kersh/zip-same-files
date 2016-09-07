@@ -31,7 +31,7 @@ You can use it via `right click -> Services -> ZIP Same Files`. Script work if y
 
 ## How to install it?
 
-- Download automator **ZIP Same Files.workflow** file.
+- Download automator [**ZIP Same Files.workflow**](https://github.com/kersh/zip-same-files/blob/master/ZIP%20Same%20Files.workflow.zip?raw=true) file.
 - Double click on **ZIP Same Files.workflow** file.
 - Press install.
 
